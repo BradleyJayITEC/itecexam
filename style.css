@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    background-color: #ebebeb;
+}
+
+.topbar{
+    background-color: #d3d3d3;
+    overflow: hidden;
+    padding: 0px 5px 0px 0px;
+}
+
+.topbar a{
+    padding: 15px 20px;
+    text-decoration: none;
+    float: left;
+    text-align: center;
+}
+
+.topbar a:hover{
+    background-color: black;
+    color: white;
+}
+
+.logo{
+    width: 65px;
+    height: 45px;
+    float:left;
+}
+
+.companyName{
+    padding: 15px 20px;
+    text-decoration: none;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+}
+
+.hero{
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.heroText{
+    align-items: center;
+    text-align: center;
+}
+
+.productTable img{
+    width: 500px;
+    height: 500px;
+}
+
+.productTable td{
+    align-items: center;
+    text-align: center;
+}
